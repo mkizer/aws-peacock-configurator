@@ -1,0 +1,64 @@
+{
+  regions: [
+    "us-east-1",
+    "us-west-2",
+  ],
+  accounts: [
+    {
+      id: "654654150163",
+      name: "Backup",
+    },
+    {
+      id: "469418467253",
+      name: "DevOps",
+    },
+    {
+      id: "661509723486",
+      name: "FG3 NonProd",
+    },
+    {
+      id: "954828763449",
+      name: "FG3 Prod",
+    },
+    {
+      id: "671433382076",
+      name: "HHSA NonProd",
+    },
+    {
+      id: "875739225533",
+      name: "HHSA Prod",
+    },
+    {
+      id: "255034411485",
+      name: "Innovation",
+    },
+    {
+      id: "773015727484",
+      name: "LUEG NonProd",
+    },
+    {
+      id: "409508691271",
+      name: "LUEG Prod",
+    },
+    {
+      id: "585369751176",
+      name: "OpsMonitoring",
+    },
+    {
+      id: "095076045554",
+      name: "PSG NonProd",
+    },
+    {
+      id: "776554102403",
+      name: "PSG Prod",
+    },
+    {
+      id: "626129304268",
+      name: "SharedServices",
+    },
+    {
+      id: "985539761371",
+      name: "Storage",
+    },
+  ],
+}

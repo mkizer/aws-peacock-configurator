@@ -1,0 +1,130 @@
+[
+  {
+    env: {
+      account: "469418467253",
+      region: "us-west-2",
+    },
+    style: {
+      navigationBackgroundColor: "#01496d",
+      accountMenuButtonBackgroundColor: "#017cb9",
+    },
+  },
+  {
+    env: {
+      account: "469418467253",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#017cb9",
+      accountMenuButtonBackgroundColor: "#01496d",
+    },
+  },
+  {
+    env: {
+      account: "654654150163",
+      region: "us-west-2",
+    },
+    style: {
+      navigationBackgroundColor: "#290513",
+      accountMenuButtonBackgroundColor: "#750e36",
+    },
+  },
+  {
+    env: {
+      account: "654654150163",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#1c4710",
+      accountMenuButtonBackgroundColor: "#3a9321",
+    },
+  },
+  {
+    env: [
+      {
+        account: "954828763449",
+        region: "us-west-2",
+      },
+      {
+        account: "875739225533",
+        region: "us-west-2",
+      },
+      {
+        account: "409508691271",
+        region: "us-west-2",
+      },
+      {
+        account: "776554102403",
+        region: "us-west-2",
+      },
+    ],
+    style: {
+      navigationBackgroundColor: "#400000",
+      accountMenuButtonBackgroundColor: "#730000",
+    },
+  },
+  {
+    env: [
+      {
+        account: "661509723486",
+        region: "us-west-2",
+      },
+      {
+        account: "671433382076",
+        region: "us-west-2",
+      },
+      {
+        account: "773015727484",
+        region: "us-west-2",
+      },
+      {
+        account: "095076045554",
+        region: "us-west-2",
+      },
+    ],
+    style: {
+      navigationBackgroundColor: "#11380a",
+      accountMenuButtonBackgroundColor: "#1c5e10",
+    },
+  },
+  {
+    env: {
+      account: "626129304268",
+      region: "us-west-2",
+    },
+    style: {
+      navigationBackgroundColor: "#5a35a0",
+      accountMenuButtonBackgroundColor: "#854eec",
+    },
+  },
+  {
+    env: {
+      account: "626129304268",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#854eec",
+      accountMenuButtonBackgroundColor: "#5a35a0",
+    },
+  },
+  {
+    env: {
+      account: "585369751176",
+      region: "us-west-2",
+    },
+    style: {
+      navigationBackgroundColor: "#233eba",
+      accountMenuButtonBackgroundColor: "#3e86ce",
+    },
+  },
+  {
+    env: {
+      account: "585369751176",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#3e86ce",
+      accountMenuButtonBackgroundColor: "#233eba",
+    },
+  },
+]
