@@ -1,0 +1,74 @@
+[
+  {
+    env: {
+      account: "469418467253",
+      region: "us-west-2",
+    },
+    style: {
+      navigationBackgroundColor: "#01496d",
+      accountMenuButtonBackgroundColor: "#017cb9",
+    },
+  },
+  {
+    env: {
+      account: "469418467253",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#017cb9",
+      accountMenuButtonBackgroundColor: "#01496d",
+    },
+  },
+  {
+    env: [
+      {
+        account: "954828763449",
+        region: "us-west-2",
+      },
+      {
+        account: "409508691271",
+        region: "us-west-2",
+      },
+    ],
+    style: {
+      navigationBackgroundColor: "#400000",
+      accountMenuButtonBackgroundColor: "#730000",
+    },
+  },
+  {
+    env: [
+      {
+        account: "661509723486",
+        region: "us-west-2",
+      },
+      {
+        account: "773015727484",
+        region: "us-west-2",
+      },
+    ],
+    style: {
+      navigationBackgroundColor: "#11380a",
+      accountMenuButtonBackgroundColor: "#1c5e10",
+    },
+  },
+  {
+    env: {
+      account: "626129304268",
+      region: "us-west-2",
+    },
+    style: {
+      navigationBackgroundColor: "#5a35a0",
+      accountMenuButtonBackgroundColor: "#854eec",
+    },
+  },
+  {
+    env: {
+      account: "626129304268",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#854eec",
+      accountMenuButtonBackgroundColor: "#5a35a0",
+    },
+  },
+]
