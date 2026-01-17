@@ -28,7 +28,15 @@ The plugin source code is also on GitHub: [aws-peacock-management-console](https
     cd aws-peacock-configurator
     ```
 
-2.  Install the required Python dependencies:
+2.  Create and activate a virtual environment:
+
+    ```bash
+    python -m venv .venv
+    .\.venv\Scripts\Activate  # On Windows
+    # source .venv/bin/activate  # On macOS/Linux
+    ```
+
+3.  Install the required Python dependencies:
 
     ```bash
     pip install -r requirements.txt

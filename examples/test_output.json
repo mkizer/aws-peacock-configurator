@@ -107,4 +107,14 @@
       accountMenuButtonBackgroundColor: "#5a35a0",
     },
   },
+  {
+    env: {
+      account: "776554102403",
+      region: "us-east-1",
+    },
+    style: {
+      navigationBackgroundColor: "#b44633",
+      accountMenuButtonBackgroundColor: "#33a1b4",
+    },
+  },
 ]

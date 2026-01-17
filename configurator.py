@@ -594,6 +594,10 @@ class ConfiguratorApp(ctk.CTk):
         if not self.filepath:
             return
 
+        # Confirm before saving
+        if not messagebox.askyesno("Confirm Save", f"Are you sure you want to save changes to {os.path.basename(self.filepath)}?"):
+            return
+
         # Gather data from widgets
         try:
             clean_data = self.get_clean_config_data()
